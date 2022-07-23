@@ -1,3 +1,5 @@
+*Note: Until now, the notebooks are empty with the exception of the value premium.*  
+
 ## Description
 This repository consists of a number of jupyter notebooks in which I analyze my own investment ideas and popular beliefs in finance.
 
