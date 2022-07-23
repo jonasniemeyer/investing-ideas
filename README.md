@@ -3,8 +3,7 @@ This repository consists of a number of jupyter notebooks in which I analyze my 
 
 ## List of Contents
 
-1. Analyzing Gold  
-*analyzing_gold.ipynb*  
+1. [Analyzing Gold](https://github.com/Jon-Nie/investment_ideas/blob/main/analyzing_gold.ipynb)
 I discuss what variables drive the gold price and gold returns and whether gold is indeed a good portfolio diversifier, as often asummed.
 
 2. Analyzing the Value Premium
