@@ -17,7 +17,7 @@ Many sceptics claim that the value premium is dead since it failed to return any
 - [Building Analyst Recommendation Portfolios](https://github.com/Jon-Nie/investment_ideas/blob/main/building_analyst_recommendation_portfolios.ipynb)  
 I use publicly available data of analyst recommendations for a large sample of US stocks and analyze whether they could be used in real-time to construct stock portfolios that outperform its benchmark.
 
-- [Bulding Commodity-Factor Portfolios](https://github.com/Jon-Nie/investment_ideas/blob/main/building_commodity_factor_portfolios.ipynb)  
+- [Building Commodity-Factor Portfolios](https://github.com/Jon-Nie/investment_ideas/blob/main/building_commodity_factor_portfolios.ipynb)  
 I use commodity futures data and try to construct a portfolio in real-time with high exposure to the commodity momentum and roll premium.
 
 - [Building Equity-Factor Portfolios](https://github.com/Jon-Nie/investment_ideas/blob/main/building_equity_factor_portfolios.ipynb)  
@@ -25,7 +25,7 @@ I use publicly available price and fundamental data for a large sample of US sto
 
 - [Exploiting the Variance Drag](https://github.com/Jon-Nie/investment_ideas/blob/main/exploiting_the_variance_drag.ipynb)  
 The variance drag is the difference between the arithmetic mean return and geometric mean return, which is generally in the order of half the variance.  
-Given a large enough amount of variance, any asset with a positive arithmetic mean return can return a negative compunding return. This is particularly the case for 2x or 3x leveraged ETFs. I analyze whether one can profit from the variance drag by short selling high-variance inverse ETFs and I also give an exact solution under what characteristics of the underlying asset it is possible.
+Given a large enough amount of variance, any asset with a positive arithmetic mean return can return a negative compounding return. This is particularly the case for 2x or 3x leveraged ETFs. I analyze whether one can profit from the variance drag by short selling high-variance inverse ETFs and I also give an exact solution under what characteristics of the underlying asset it is possible.
 
 - [Inflation Forecasting](https://github.com/Jon-Nie/investment_ideas/blob/main/inflation_forecasting.ipynb)  
 Given the current high and accelerating rates of inflation, both in the US and europe, I analyze whether it is possible to forecast inflation rates by searching for time-series dependencies with itself and other variables.
